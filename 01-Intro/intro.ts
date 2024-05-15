@@ -4,4 +4,4 @@ let user = {
 }
 
 console.log('Sachin')
-console.log(user.email)
+console.log(user.name)
