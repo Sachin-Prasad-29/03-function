@@ -5,3 +5,7 @@ let user = {
 
 console.log('Sachin')
 console.log(user.name)
+
+function add(a:number,b:number):string{
+    return a+b
+}

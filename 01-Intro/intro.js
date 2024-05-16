@@ -3,4 +3,7 @@ var user = {
     age: 24,
 };
 console.log('Sachin');
-console.log(user.email);
+console.log(user.name);
+function add(a, b) {
+    return a + b;
+}
